@@ -1,0 +1,8 @@
+[submodule "NodeMCU-Tool"]
+	path = NodeMCU-Tool
+	url = https://github.com/AndiDittrich/NodeMCU-Tool.git
+	branch = master
+[submodule "webrepl"]
+	path = webrepl
+	url = https://github.com/micropython/webrepl
+	branch = master
